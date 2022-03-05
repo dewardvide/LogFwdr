@@ -10,10 +10,10 @@ I wrote it to help me keep track of failed log in attempts of a certain system o
 1. `Python`
 2. `Pip` (to install libraries)
 3. Libraries:
-    *`win32evtlog`
-    *`datetime`
-    *`smtplib`
-    *`datetime`
+    * `win32evtlog`
+    * `datetime`
+    * `smtplib`
+    * `datetime`
 
 ### NOTES
 1. Run with admin privileges in order to view logs

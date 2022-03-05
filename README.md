@@ -4,7 +4,7 @@ Go through the Code and Change it as appropriate.
 ### INTRODUCTION
 This python script allows you to specify the server, logtype and eventID. The specified logs will be forwarder to you via email. 
 This script can be automated by the use of Powershell and/or Windows Task Scheduler. The interval between the sending if the logs can also be changed.
-I wrote it to help me keep track of failed log in attempts of a certain system over a specific period of time. 
+I wrote it to help me keep track of failed log in attempts of a certain system over a specific period of time. This program can also be used to monitor any type of logs.
 
 ### PREREQUISITS
 1. `Python`
